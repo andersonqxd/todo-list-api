@@ -1,0 +1,25 @@
+{
+  "name": "todo-list-api",
+  "version": "1.0.0",
+  "description": "API para gerenciamento de tarefas, desenvolvida com Node.js e Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonqxd/todo-list-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersonqxd/todo-list-api/issues"
+  },
+  "homepage": "https://github.com/andersonqxd/todo-list-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
