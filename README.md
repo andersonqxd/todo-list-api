@@ -9,7 +9,7 @@ API para gerenciamento de tarefas, desenvolvida com Node.js e Express.
 
 ## 📦 Como Instalar
 ```bash
-git clone https://github.com/seu-usuario/todo-list-api.git
+git clone https://github.com/andersonqxd/todo-list-api.git
 cd todo-list-api
 npm install
 npm start
